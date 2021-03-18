@@ -1,0 +1,29 @@
+/* css reset */
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	font-family:Nunito Sans;
+        background-color:peachpuff;
+        
+}
+h2{
+	font-size: 50px;
+     
+}
+table{
+	letter-spacing: 1.2px;
+}
+td{
+	text-align:center;
+}
+button{
+	border:none;
+        transition:2s;
+        
+}
+@media only screen and (orientation: portrait){
+	*{
+		letter-spacing: 0.5px;
+	}
+}
