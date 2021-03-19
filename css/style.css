@@ -79,8 +79,8 @@ section.topContent .topContentImg {
 
 /* Card */
 .card:hover{
-    box-shadow: 8px 11px blueviolet;
-    background-color:yellow;
+    box-shadow: 8px 11px gold;
+    background-color:lavenderblush;
     color:tomato;
     font-family: sans-serif;
 
