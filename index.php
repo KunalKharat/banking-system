@@ -77,7 +77,7 @@
       <div class="row">
         <div class="col-md-6 mx-auto mt-4">
           <div>
-            <span class="text">Team Spark Foundation Bank</span>
+            <span class="text">The Spark Foundation Bank</span>
           </div>
           <div class="mt-2">
             <span class="sub-content">Hello Everyone,this is Team Spark Foundation Bank.<br>In this website,We can send money from one person to the another.</span>
